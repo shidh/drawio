@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-16T07:40:36.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="NFun7K4ziyFQs8GbNsGR" version="12.9.13" type="github">
+<mxfile host="www.draw.io" modified="2020-04-16T07:43:46.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="zfHA6uYjZV2-9Ce9A5lc" version="12.9.13" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
             <mxPoint x="790" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MXNp8doz9g4JOgykyrta-17" value="&lt;font color=&quot;#ff9933&quot;&gt;Below is the Money Flow 1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MXNp8doz9g4JOgykyrta-16">
+        <mxCell id="MXNp8doz9g4JOgykyrta-17" value="&lt;font color=&quot;#ff9933&quot;&gt;The Money Flow Case 1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MXNp8doz9g4JOgykyrta-16">
           <mxGeometry x="-0.0305" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -345,7 +345,7 @@
             <mxPoint x="790" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MXNp8doz9g4JOgykyrta-54" value="Below is the Money Flow 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;" vertex="1" connectable="0" parent="MXNp8doz9g4JOgykyrta-53">
+        <mxCell id="MXNp8doz9g4JOgykyrta-54" value="The Money Flow Case 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;" vertex="1" connectable="0" parent="MXNp8doz9g4JOgykyrta-53">
           <mxGeometry x="-0.0305" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
