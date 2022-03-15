@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:45:59.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="thtCROYUyUfQr-V48OAx" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T03:28:35.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="4bUIa6s268JoleJHdfSh" version="16.6.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1000" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,8 +99,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uBAw9XJn03DKGbOvMEOf-25" value="&lt;font color=&quot;#000000&quot;&gt;each time when CNY customer switching PI&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="30" y="128" width="90" height="70" as="geometry" />
+        <mxCell id="uBAw9XJn03DKGbOvMEOf-25" value="&lt;font color=&quot;#000000&quot;&gt;each time when CNY customer loading CompletePayment&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="20" y="126" width="100" height="78" as="geometry" />
         </mxCell>
         <mxCell id="uBAw9XJn03DKGbOvMEOf-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;elbow=vertical;entryX=0.939;entryY=0.451;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-6">
           <mxGeometry relative="1" as="geometry">
